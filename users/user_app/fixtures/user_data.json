@@ -1,0 +1,22 @@
+[
+  {
+    "model": "user_app.customuser",
+    "pk": 3,
+    "fields": {
+      "password": "pbkdf2_sha256$216000$GvM5rEAJSok1$b6PCv5j33pM1MR/+psQS6jK6O21ItS7psqYMJJ6U6/U=",
+      "last_login": null,
+      "username": "test_user;",
+      "email": "test_user@test.com",
+      "is_active": true,
+      "is_superuser": false,
+      "is_staff": true,
+      "groups": [],
+      "user_permissions": [
+        21,
+        22,
+        23,
+        24
+      ]
+    }
+  }
+]
